@@ -1,6 +1,6 @@
 package day3;
 
-//sort colors
+//sort colorst
 
 class Solution {
     public void sortColors(int[] nums) {
